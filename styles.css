@@ -1,0 +1,110 @@
+body{
+    max-height: fit-content;
+}
+.h1title{
+        text-align: center;
+        font-size: 50px;
+    }
+.pantry-section{
+    font-size: larg;
+    color: rgb(111,0,255);
+    border: 1px black solid;
+    margin-right: 950px;
+    line-height: 10px;
+    border-width: 10px;
+    border-color: rgb(250, 151, 3);
+    border-style:double;
+    text-align: left;
+}
+/* this is first box */
+.cantitle{
+    color:rgb(111,0,255) ;
+    font-size: larger;
+}
+.canlist{
+    background-color: rgb(99, 99, 99) ;
+    width: 475px;
+    height: 200px;
+    display: inline-block;
+}
+.list1{
+    color:rgb(250, 151, 3);
+    font-size: larger;
+}
+/* this is second box */
+.drytitle{
+    color:rgb(111,0,255) ;
+    font-size: larger;
+}
+.drylist{
+    background-color: rgb(99, 99, 99);
+    width: 475px;
+    height: 200px;
+    display: inline-block;
+}
+.list2{
+    color:rgb(250, 151, 3) ;
+    font-size: larger;
+}
+/* this is image box */
+.firstimage{
+    display: inline-block; 
+    width: 475px;
+    height: 200px;
+}
+.freezer-section{
+    font-size: larg;
+    color: rgb(111,0,255);
+    border: 1px black solid;
+    margin-right: 950px;
+    margin-top: 10px;
+    line-height: 10px;
+    border-width: 10px;
+    border-color: rgb(250, 151, 3);
+    border-style:double;
+    text-align: left;
+    
+}
+/* this is third box */
+.veggieslist{
+    background-color: rgb(99, 99, 99);
+    width: 475px;
+    height: 200px;
+    display: inline-block;
+}
+.veggiestitle{
+    color:rgb(111,0,255) ;
+    font-size: larger;
+}
+.list3{
+    color:rgb(250, 151, 3); 
+    font-size: larger;
+}
+/* this is fourth box */
+.snacklist{
+    background-color: rgb(99, 99, 99);
+    width: 475px;
+    height: 200px;
+    display: inline-block;
+}
+.snacktitle{
+    color:rgb(111,0,255);
+    font-size: larger;
+}
+.list4{
+    color:rgb(250, 151, 3);
+    font-size: larger;
+}
+/* this is image box */
+.secondimage{
+    display: inline-block; 
+    width: 475px;
+    height: 200px;
+    
+}
+.message{
+    font-size: smaller;
+    margin-top: 10px;
+    margin-right: 1667px;
+    border: 1px black solid;
+}
